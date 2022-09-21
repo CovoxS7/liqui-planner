@@ -1,4 +1,4 @@
-import Haushaltsbuch from "./classes/Haushaltsbuch.js.js";
+import Haushaltsbuch from "./classes/Haushaltsbuch.js";
 
 let liqui_planner = new Haushaltsbuch();
 liqui_planner.start();
